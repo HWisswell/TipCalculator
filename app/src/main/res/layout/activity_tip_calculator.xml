@@ -5,7 +5,7 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".TipCalculatorActivity"
     android:id="@+id/Helen"
-    android:background="@color/material_deep_teal_200">
+    android:background="@drawable/pony">
 
     <TextView
         android:layout_width="wrap_content"
